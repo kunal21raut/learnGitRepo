@@ -6,4 +6,4 @@ class add:
         
 a=add()
 a.add()
-print("THANK YOU !!")
+print("THANK YddOU !!")
