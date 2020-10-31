@@ -27,7 +27,7 @@ while no_of_guesses<5:
 if guess==number:
     print("You guess the number in",no_of_guesses," tries.")
 else:
-    print("you didn't guess the number in",no_of_guesses,"tries. The number was",number)  
+    print("you didn't guessed the number in",no_of_guesses,"tries. The number was",number)
 
 
 win.mainloop()
